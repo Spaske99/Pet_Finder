@@ -1,0 +1,54 @@
+body {
+    background-image: url("../img/wrap.jpg");
+}
+
+#wrap {
+    width:300px;
+    margin:auto;
+}
+
+form {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#search {
+    background-color:rgba(207, 207, 209, 0.8);
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    border: 1px solid #696969;
+    text-align: center;
+}
+
+#search img {
+    max-width: 270px;
+}
+
+#message {
+    background-color:rgba(207, 207, 209, 0.8);
+    border-radius: 15px;
+    text-align: center;
+    border: 0.1px solid #696969;
+}
+
+#result {
+    padding: 10px;
+    background-color: rgba(207, 207, 209, 0.8);
+    margin-bottom: 2px;
+    padding-left: 20px;
+    border-radius: 15px;
+    border: 1px solid #696969;
+}
+
+#result .removeImg img{
+    float: right;  
+    margin-top: 40px;
+    margin-right: 15px;
+}
+
+#result img {
+    float: right;  
+    margin-top: 30px;
+    margin-right: 15px;
+}
